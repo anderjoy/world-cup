@@ -1,0 +1,12 @@
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\app.db
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\world-cup.deps.json
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\world-cup.runtimeconfig.json
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\world-cup.runtimeconfig.dev.json
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\world-cup.dll
+D:\Projetos\C#\world-cup\bin\Debug\netcoreapp2.0\world-cup.pdb
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\world-cup.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\world-cup.AssemblyInfoInputs.cache
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\world-cup.AssemblyInfo.cs
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\world-cup.dll
+D:\Projetos\C#\world-cup\obj\Debug\netcoreapp2.0\world-cup.pdb
